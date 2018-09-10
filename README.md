@@ -4,6 +4,7 @@ A README with useful resources
 
 | Tool | Source |
 | --- | --- |
+| BurntSushi A fast CSV command line toolkit written in Rust. | https://github.com/BurntSushi/xsv |
 | Autoprimer | https://github.com/gantzgraf/autoprimer3/releases/tag/v3.0.2 |
 | Ensemble | http://www.ensembl.org/index.html |
 | Exac | http://exac.broadinstitute.org |
